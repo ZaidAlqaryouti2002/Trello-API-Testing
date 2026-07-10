@@ -33,19 +33,19 @@ The collection is organized into logical folders mirroring Trello's architecture
 3. Generate your Trello **API Key** and **API Token** from the [Trello Power-Up Admin portal](https://trello.com/app-key).
 
 ### Setup Instructions
-1. Clone this repository to your local machine:
+-1 Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/ZaidAlqaryouti2002/Trello-API-Testing.git](https://github.com/ZaidAlqaryouti2002/Trello-API-Testing.git)
    
--1 Open Postman.
+-2 Open Postman.
 
--2 Import the Trello APIs Collection.json file.
+-3 Import the Trello APIs Collection.json file.
 
--3 Import the Trello API Environment.json file.
+-4 Import the Trello API Environment.json file.
 
--4 In Postman, select the imported environment and update the Current Value for the following variables with your actual credentials:
+-5 In Postman, select the imported environment and update the Current Value for the following variables with your actual credentials:
 
--5 API_KEY: Your Trello API Key.
+-6 API_KEY: Your Trello API Key.
 
 API_TOKEN: Your Trello API Token.
 
